@@ -29,7 +29,11 @@ body{
 
 
 }
-.ul{
+.ol{
     background-color: azure;
     color: aliceblue;
+}
+.conteudo{
+    background-image: linear-gradient(rgb(109, 27, 41));
+    color: purple;
 }
