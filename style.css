@@ -37,3 +37,7 @@ body{
     background-image: linear-gradient(rgb(109, 27, 41));
     color: purple;
 }
+.conteudo-div{
+    background-image: linear-gradient(rgb(229, 222, 23));
+    color: rgb(24, 231, 128);
+}
